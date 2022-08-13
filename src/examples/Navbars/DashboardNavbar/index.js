@@ -188,9 +188,9 @@ function DashboardNavbar({ absolute, light, isMini }) {
                 sx={navbarIconButton}
                 onClick={handleConfiguratorOpen}
               >
-                <Icon>settings</Icon>
+              <Icon>settings</Icon>
               </IconButton>
-              <IconButton
+              <IconButton 
                 size="small"
                 color="inherit"
                 sx={navbarIconButton}

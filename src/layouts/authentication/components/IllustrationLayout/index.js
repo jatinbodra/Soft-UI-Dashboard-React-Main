@@ -39,8 +39,6 @@ function IllustrationLayout({ color, header, title, description, illustration, c
       <DefaultNavbar
         routes={pageRoutes}
         action={{
-          type: "external",
-          route: "https://creative-tim.com/product/soft-ui-dashboard-pro-react",
           label: "buy now",
         }}
       />
